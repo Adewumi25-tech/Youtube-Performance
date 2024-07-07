@@ -35,4 +35,15 @@ Data transformation and DAX function were applied to create relevant features fo
 
 ## ANALYSIS
 
+## DASHBOARD
+![NEWSLETTER DASHBOARD](https://github.com/Adewumi25-tech/Email-Marketting/assets/72547309/6afb21d8-6c1d-40ea-bef9-cf5d63f19109)
+
+
+### INSIGHTS
+
+👉 The total subscribers for the newsletter are 9921, active users are 9894 while inactive users are just 27, which made the content engaging.
+
+👉 A higher proportion of male subscribers (6809) than female (2906).
+
+
 
