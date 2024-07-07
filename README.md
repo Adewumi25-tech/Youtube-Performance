@@ -33,3 +33,6 @@ I created a workspace on my Microsoft Fabric and Lakehouse for my data. The data
 
 Data transformation and DAX function were applied to create relevant features for analysis.
 
+## ANALYSIS
+
+
