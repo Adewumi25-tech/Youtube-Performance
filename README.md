@@ -23,6 +23,7 @@ The dataset includes information such as video ID, title, channel, category, vie
 ## DATA PREPARATION
 The dataset was processed to handle missing values, clean outliers, and ensure consistency, transforming, and organizing the data to ensure accuracy and usability for analysis using Python. 
 
+### python Script
 [Updated2.md](https://github.com/user-attachments/files/16120988/Updated2.md)
 
 After the data cleaning, the data was saved to my laptop download.
