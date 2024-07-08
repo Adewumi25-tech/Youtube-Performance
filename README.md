@@ -92,6 +92,7 @@ The analysis highlights the UK, USA, and Canada as the leading countries in term
 👉 ibighit: 117 million
 
 👉 Marvel Entertainment: 36 million
+
 👉 ChildishGambinoVEVO: 30 million
 
 👉 jypentertainment: 28 million
