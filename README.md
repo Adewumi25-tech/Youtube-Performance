@@ -30,6 +30,9 @@ After the data cleaning, the data was saved to my laptop download.
 
 I created a workspace on my Microsoft Fabric and Lakehouse for my data. The dataset was uploaded to my lakehouse, new dataflow gen2 was created. 
 
+### Dataflow
+<img width="958" alt="image" src="https://github.com/Adewumi25-tech/Youtube-Performance/assets/72547309/157a2d3c-3a7f-44ab-9ff6-a433e777bf8e">
+
 <img width="956" alt="image" src="https://github.com/Adewumi25-tech/Youtube-Performance/assets/72547309/6f394ffa-dcb7-4b49-bb54-7831731a0996">
 
 Data transformation and DAX function were applied to create relevant features for analysis.
