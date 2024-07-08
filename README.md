@@ -42,9 +42,13 @@ The analysis highlights the UK, USA, and Canada as the leading countries in term
 
 ### Overall Metrics:
 👉 Total YouTube Videos: 363K
+
 👉 Total Views: 488 billion
+
 👉 Total Likes: 14 billion
+
 👉 Total Comments: 2 billion
+
 👉 Average Views per Video: 1.34 million
 👉 Average Likes per Video: 38.41K
 
